@@ -1,0 +1,16 @@
+package JavaInterViewQuestions;
+
+public class StringManuPulation {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		String Test = "Saif islam sai sai7bd";
+		
+		System.out.println(Test.charAt(11));
+
+		System.out.println(Test.indexOf("s"));
+		
+	}
+
+}

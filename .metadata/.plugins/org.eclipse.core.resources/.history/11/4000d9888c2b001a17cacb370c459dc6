@@ -1,0 +1,12 @@
+package JavaInterViewQuestions;
+
+public static void MissingNumber(String[] args) {	
+	Integer Num[] =  {1,2,4,5,6} ;
+	int sum = 0 ;
+	
+	for (int i =1 ; i< num.length; i ++) {
+		
+	}
+	
+}
+}

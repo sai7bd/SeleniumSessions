@@ -1,0 +1,14 @@
+
+public class Employee {
+String Name;
+Integer Age;
+String Dept;
+
+ Employee(String Name, int Age, String Dept) {
+	
+	this.Name = Name;
+	this.Age = Age;
+	this.Dept = Dept;
+	
+}
+}

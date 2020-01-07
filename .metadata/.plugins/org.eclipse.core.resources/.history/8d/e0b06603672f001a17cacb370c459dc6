@@ -1,0 +1,42 @@
+import java.util.Iterator;
+
+public class LinkedList {
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+	java.util.LinkedList <String> ll = new java.util.LinkedList<String>();
+		
+		ll.add("Saif");
+		ll.add("MD");
+		ll.add("Islam");
+		ll.add("Islam");
+		System.out.println(ll);
+		
+		for (int i = 0 ; i< ll.size(); i ++) {
+			
+			System.out.println(ll.get(i));
+		}
+		System.out.println("*********Adv For loof");
+		
+		for (String n : ll) {
+			System.out.println(n);
+		}
+			
+		System.out.println("*********Iterator---");
+		
+		Iterator<String> it = ll.iterator();
+			while (it.hasNext()){
+				
+			System.out.println(it.next());
+		}
+			
+			System.out.println("*********While---");
+			
+			int y = 0 ;
+				while ( y < ll.size()){
+					y ++ ; 
+				System.out.println(y);
+			}
+		
+	}
+}

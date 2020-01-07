@@ -1,0 +1,19 @@
+package JavaInterViewQuestions;
+
+import java.util.ArrayList;
+
+public class StringManuPulation {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		String Test = "saif islam sai sai7bd";
+		
+		//System.out.println(Test.charAt(11));
+		ArrayList<String> a = new ArrayList<String>();
+		
+		System.out.println(Test.indexOf("s", (Test.indexOf("s")+1)+1));
+		
+	}
+
+}

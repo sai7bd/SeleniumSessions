@@ -1,0 +1,32 @@
+package JavaInterViewQuestions;
+
+import java.util.ArrayList;
+
+public class StringManuPulation {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		String Test = "saif ilam sai sai7bd";
+		
+		//System.out.println(Test.charAt(11));
+		ArrayList<String> a = new ArrayList<String>();
+		
+		//System.out.println(Test.indexOf("s", (Test.indexOf("s")+1)+1));
+		//System.out.println(Test.indexOf('s', Test.indexOf('s',Test.indexOf('s')+1)));
+		
+		//System.out.println("The location of last occurence of  's' is :" +Test.lastIndexOf('s'));
+		//System.out.println(Test.indexOf('s'));
+		System.out.println(Test.indexOf('s', Test.indexOf('s')+1));
+	 
+	    //System.out.println(ordinalIndexOf(Test, '/', 3));
+		
+	//System.out.println(Test.indexOf(Test.indexOf('s', Test.indexOf('s')+1)) , Test.indexOf('s')+1); // , (Test.indexOf('s') + 1)) ;
+	}
+
+	private static char[] ordinalIndexOf(String test, char c, int i) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

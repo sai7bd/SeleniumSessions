@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;FreeCRMBDDFrameWork&apos;" deleteContents="false" description="Delete resource &apos;FreeCRMBDDFrameWork&apos;" element1="/FreeCRMBDDFrameWork" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1577320203211"/>&#x0A;<refactoring comment="Delete resource &apos;FreeCRMBDDFrameWork1&apos;" deleteContents="false" description="Delete resource &apos;FreeCRMBDDFrameWork1&apos;" element1="/FreeCRMBDDFrameWork1" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1577330736131"/>
+</session>

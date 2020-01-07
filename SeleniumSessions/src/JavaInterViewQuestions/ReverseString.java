@@ -1,0 +1,34 @@
+package JavaInterViewQuestions;
+
+public class ReverseString {
+
+	// Reverse a string
+	
+	// different  between String and  StringBuffer
+	
+	// do you have reverse function is string -- Answer no
+	
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+//Java Example
+//		String s = "Saif";
+//		
+//		StringBuffer sf = new StringBuffer (s);
+//	
+//		System.out.println(sf.reverse());
+		
+		// For loof Example
+		
+		String S = "Saif";
+		int len = S.length();
+		String Rev = "" ;
+		
+		for(int i = len -1 ; i>=0 ; i-- ) {
+			Rev = Rev +	S.charAt(i);
+		}
+		
+		System.out.println(Rev);
+		 
+	}
+
+}

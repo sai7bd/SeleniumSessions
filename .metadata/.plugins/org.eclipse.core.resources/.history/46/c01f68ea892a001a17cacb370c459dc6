@@ -1,0 +1,16 @@
+package JavaInterViewQuestions;
+
+public class ReverseString {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		String s = "Saif";
+		
+		StringBuffer sf = new StringBuffer (s);
+	
+		System.out.println(sf.reverse());
+		
+	}
+
+}

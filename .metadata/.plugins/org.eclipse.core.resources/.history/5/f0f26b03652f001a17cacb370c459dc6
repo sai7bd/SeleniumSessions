@@ -1,0 +1,14 @@
+
+public class LinkedList {
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+	java.util.LinkedList <String> ll = new java.util.LinkedList<String>();
+		
+		ll.add("Saif");
+		ll.add("MD");
+		ll.add("Islam");
+		System.out.println(ll.get(1));
+		
+	}
+}

@@ -1,0 +1,296 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 26,
+        "name": "Free CRM Login Test Scenario",
+        "description": "",
+        "id": "free-crm-login-feature;free-crm-login-test-scenario;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 10620724400,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "user is already on Login Page",
+            "match": {
+              "location": "LoginStepDefinition.user_is_already_on_Login_Page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 178125600,
+              "status": "passed"
+            },
+            "comments": [
+              {
+                "line": 18,
+                "value": "#When title of login page is Free CRM"
+              }
+            ],
+            "line": 19,
+            "name": "user enters \"saiful7bd@yahoo.com\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "saiful7bd@yahoo.com",
+                  "offset": 13
+                }
+              ],
+              "location": "LoginStepDefinition.user_enters_and(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 932947500,
+              "status": "passed"
+            },
+            "comments": [
+              {
+                "line": 20,
+                "value": "#Then user clicks on login button"
+              },
+              {
+                "line": 21,
+                "value": "#Then user is on home page"
+              }
+            ],
+            "line": 22,
+            "name": "Close the browser",
+            "match": {
+              "location": "LoginStepDefinition.Close_the_browser()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 27,
+        "name": "Free CRM Login Test Scenario",
+        "description": "",
+        "id": "free-crm-login-feature;free-crm-login-test-scenario;;3",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 7246993500,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "user is already on Login Page",
+            "match": {
+              "location": "LoginStepDefinition.user_is_already_on_Login_Page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 197938700,
+              "status": "passed"
+            },
+            "comments": [
+              {
+                "line": 18,
+                "value": "#When title of login page is Free CRM"
+              }
+            ],
+            "line": 19,
+            "name": "user enters \"sai7bd@yahoo.com\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "sai7bd@yahoo.com",
+                  "offset": 13
+                }
+              ],
+              "location": "LoginStepDefinition.user_enters_and(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 689228400,
+              "status": "passed"
+            },
+            "comments": [
+              {
+                "line": 20,
+                "value": "#Then user clicks on login button"
+              },
+              {
+                "line": 21,
+                "value": "#Then user is on home page"
+              }
+            ],
+            "line": 22,
+            "name": "Close the browser",
+            "match": {
+              "location": "LoginStepDefinition.Close_the_browser()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 28,
+        "name": "Free CRM Login Test Scenario",
+        "description": "",
+        "id": "free-crm-login-feature;free-crm-login-test-scenario;;4",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 8805825300,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "user is already on Login Page",
+            "match": {
+              "location": "LoginStepDefinition.user_is_already_on_Login_Page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 175100800,
+              "status": "passed"
+            },
+            "comments": [
+              {
+                "line": 18,
+                "value": "#When title of login page is Free CRM"
+              }
+            ],
+            "line": 19,
+            "name": "user enters \"jhumur7bd@yahoo.com\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "jhumur7bd@yahoo.com",
+                  "offset": 13
+                }
+              ],
+              "location": "LoginStepDefinition.user_enters_and(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 757914000,
+              "status": "passed"
+            },
+            "comments": [
+              {
+                "line": 20,
+                "value": "#Then user clicks on login button"
+              },
+              {
+                "line": 21,
+                "value": "#Then user is on home page"
+              }
+            ],
+            "line": 22,
+            "name": "Close the browser",
+            "match": {
+              "location": "LoginStepDefinition.Close_the_browser()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 29,
+        "name": "Free CRM Login Test Scenario",
+        "description": "",
+        "id": "free-crm-login-feature;free-crm-login-test-scenario;;5",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 7911939100,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "user is already on Login Page",
+            "match": {
+              "location": "LoginStepDefinition.user_is_already_on_Login_Page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 142794600,
+              "status": "passed"
+            },
+            "comments": [
+              {
+                "line": 18,
+                "value": "#When title of login page is Free CRM"
+              }
+            ],
+            "line": 19,
+            "name": "user enters \"kalam7bd@yahoo.com\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "kalam7bd@yahoo.com",
+                  "offset": 13
+                }
+              ],
+              "location": "LoginStepDefinition.user_enters_and(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 733912400,
+              "status": "passed"
+            },
+            "comments": [
+              {
+                "line": 20,
+                "value": "#Then user clicks on login button"
+              },
+              {
+                "line": 21,
+                "value": "#Then user is on home page"
+              }
+            ],
+            "line": 22,
+            "name": "Close the browser",
+            "match": {
+              "location": "LoginStepDefinition.Close_the_browser()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Free CRM Login Feature",
+    "description": "",
+    "id": "free-crm-login-feature",
+    "keyword": "Feature",
+    "uri": "login.feature"
+  }
+]
