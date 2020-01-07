@@ -23,7 +23,7 @@ public class array {
 		System.out.println("**************");
 		
 		ArrayList<String> ar3 = new ArrayList<String>();
-		ar3.add("annhara");
+		ar3.add("annhara amar meye");
 		ar3.add("5");
 		ar3.retainAll(ar1);
 		for (int i =0 ; i<ar3.size(); i ++) {
