@@ -13,7 +13,7 @@ public class array {
 		}
 		System.out.println("**************");
 		ArrayList<String> ar1 = new ArrayList<String>();
-		ar1.add("annhara");
+		ar1.add("annhara amar meye");
 		ar1.add("5");
 		ar.addAll(ar1);
 		for (int i =0 ; i<ar.size(); i ++) {
